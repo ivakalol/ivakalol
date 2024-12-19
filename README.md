@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a university student at AUBG, passionate about
   - Programming
   - Volleyball
   - Design
-  -   - Tools: Git, Figma, VS Code, Canva
+  - Tools: Git, Figma, VS Code, Canva
 - 🌱 **Learning**: Key things in programming, advancements in design, and photo editing
 
 ---
