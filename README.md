@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Ivo!
 
 Welcome to my GitHub profile! I'm a university student at AUBG, passionate about **web development**, **programming**, **design**, and **business - management**. 
+
 My personal website : [ivaylo-webpage.com](http://bit.ly/4gotRx3)
 
 ---
