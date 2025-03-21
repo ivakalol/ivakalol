@@ -21,7 +21,7 @@ My personal website : [ivaylo-webpage.com](http://bit.ly/4gotRx3)
 ## 📫 Let's Connect!
 - [GitHub](https://github.com/ivakalol)
 - [LinkedIn](https://www.linkedin.com/in/ivaylo-chernev-0b8ba51ab/)
-- 📧 Email: [ivko0527@gmail.com](mailto:ivko0527@gmail.com)
+- 📧 Email: [ivaylo.s.chernev@gmail.com](mailto:ivaylo.s.chernev@gmail.com)
 
 ---
 
