@@ -8,7 +8,7 @@ My personal website : [ivaylo-webpage.com](http://bit.ly/4gotRx3)
 
 ## 🚀 About Me
 
-- 🧑‍🎓 **Education**: First-year student at AUBG, pursuing studies in web development, programming, and design.
+- 🧑‍🎓 **Education**: Second-year student at AUBG, pursuing studies in web development, programming, and design.
 - 🔨 **Skills**:  
   - Programming
   - Volleyball
