@@ -7,6 +7,9 @@ My personal website : [ivaylo-webpage.com](http://bit.ly/4gotRx3) (hasn't been u
 My most recent full-stack project:  https://ivaka-website.me  
  (which is running fully on my server - AKA android phone running  Linux)
 
+ Also check MiniGames Website
+ https://ivakalol.github.io/MiniGames/
+
 ---
 
 ## 🚀 About Me
