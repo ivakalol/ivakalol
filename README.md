@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I'm a university student at AUBG, passionate about **web development**, **programming**, **design**, and **business - management**. 
 
-My personal website : [ivaylo-webpage.com](http://bit.ly/4gotRx3) (hasn't been updated since mid 2024)
+My personal website : [ivaylo.tech](http://bit.ly/4gotRx3) (hasn't been updated since mid 2024)
 
-My most recent full-stack project:  https://ivaka-website.me  
+My most recent full-stack project:  https://paste.ivaylo.tech
  (which is running fully on my server - AKA android phone running  Linux)
 
  Also check MiniGames Website
